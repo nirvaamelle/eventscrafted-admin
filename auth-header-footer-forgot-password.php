@@ -68,7 +68,7 @@
 									</div>
 									<div class="d-grid gap-2">
 										<button type="button" class="btn btn-white">Send</button>
-										 <a href="auth-header-footer-signin.html" class="btn btn-light"><i class='bx bx-arrow-back me-1'></i>Back to Login</a>
+										 <a href="auth-header-footer-signin.php" class="btn btn-light"><i class='bx bx-arrow-back me-1'></i>Back to Login</a>
 									</div>
 								</div>
 							</div>

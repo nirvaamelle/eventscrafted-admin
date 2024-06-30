@@ -36,7 +36,7 @@
 						<input type="password" class="form-control" placeholder="Password" />
 					</div>
 					<div class="d-grid">
-						<a href="auth-cover-signin.html" class="btn btn-light">Login</a>
+						<a href="auth-cover-signin.php" class="btn btn-light">Login</a>
 					</div>
 				</div>
 			</div>

@@ -100,7 +100,7 @@
 											</div>
 											<div class="col-12">
 												<div class="text-center ">
-													<p class="mb-0">Already have an account? <a href="auth-header-footer-signin.html">Sign in here</a></p>
+													<p class="mb-0">Already have an account? <a href="auth-header-footer-signin.php">Sign in here</a></p>
 												</div>
 											</div>
 										</form>

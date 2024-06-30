@@ -51,9 +51,9 @@
 						<div class="menu-title">Dashboard</div>
 					</a>
 					<ul>
-						<li> <a href="index.html"><i class='bx bx-radio-circle'></i>eCommerce</a>
+						<li> <a href="index.php"><i class='bx bx-radio-circle'></i>eCommerce</a>
 						</li>
-						<li> <a href="index2.html"><i class='bx bx-radio-circle'></i>Analytics</a>
+						<li> <a href="index2.php"><i class='bx bx-radio-circle'></i>Analytics</a>
 						</li>
 					</ul>
 				</li>
@@ -64,25 +64,25 @@
 						<div class="menu-title">Application</div>
 					</a>
 					<ul>
-						<li> <a href="app-emailbox.html"><i class='bx bx-radio-circle'></i>Email</a>
+						<li> <a href="app-emailbox.php"><i class='bx bx-radio-circle'></i>Email</a>
 						</li>
-						<li> <a href="app-chat-box.html"><i class='bx bx-radio-circle'></i>Chat Box</a>
+						<li> <a href="app-chat-box.php"><i class='bx bx-radio-circle'></i>Chat Box</a>
 						</li>
-						<li> <a href="app-file-manager.html"><i class='bx bx-radio-circle'></i>File Manager</a>
+						<li> <a href="app-file-manager.php"><i class='bx bx-radio-circle'></i>File Manager</a>
 						</li>
-						<li> <a href="app-contact-list.html"><i class='bx bx-radio-circle'></i>Contatcs</a>
+						<li> <a href="app-contact-list.php"><i class='bx bx-radio-circle'></i>Contatcs</a>
 						</li>
-						<li> <a href="app-to-do.html"><i class='bx bx-radio-circle'></i>Todo List</a>
+						<li> <a href="app-to-do.php"><i class='bx bx-radio-circle'></i>Todo List</a>
 						</li>
-						<li> <a href="app-invoice.html"><i class='bx bx-radio-circle'></i>Invoice</a>
+						<li> <a href="app-invoice.php"><i class='bx bx-radio-circle'></i>Invoice</a>
 						</li>
-						<li> <a href="app-fullcalender.html"><i class='bx bx-radio-circle'></i>Calendar</a>
+						<li> <a href="app-fullcalender.php"><i class='bx bx-radio-circle'></i>Calendar</a>
 						</li>
 					</ul>
 				</li>
 				<li class="menu-label">UI Elements</li>
 				<li>
-					<a href="widgets.html">
+					<a href="widgets.php">
 						<div class="parent-icon"><i class='bx bx-cookie'></i>
 						</div>
 						<div class="menu-title">Widgets</div>
@@ -95,13 +95,13 @@
 						<div class="menu-title">eCommerce</div>
 					</a>
 					<ul>
-						<li> <a href="ecommerce-products.html"><i class='bx bx-radio-circle'></i>Products</a>
+						<li> <a href="ecommerce-products.php"><i class='bx bx-radio-circle'></i>Products</a>
 						</li>
-						<li> <a href="ecommerce-products-details.html"><i class='bx bx-radio-circle'></i>Product Details</a>
+						<li> <a href="ecommerce-products-details.php"><i class='bx bx-radio-circle'></i>Product Details</a>
 						</li>
-						<li> <a href="ecommerce-add-new-products.html"><i class='bx bx-radio-circle'></i>Add New Products</a>
+						<li> <a href="ecommerce-add-new-products.php"><i class='bx bx-radio-circle'></i>Add New Products</a>
 						</li>
-						<li> <a href="ecommerce-orders.html"><i class='bx bx-radio-circle'></i>Orders</a>
+						<li> <a href="ecommerce-orders.php"><i class='bx bx-radio-circle'></i>Orders</a>
 						</li>
 					</ul>
 				</li>
@@ -112,39 +112,39 @@
 						<div class="menu-title">Components</div>
 					</a>
 					<ul>
-						<li> <a href="component-alerts.html"><i class='bx bx-radio-circle'></i>Alerts</a>
+						<li> <a href="component-alerts.php"><i class='bx bx-radio-circle'></i>Alerts</a>
 						</li>
-						<li> <a href="component-accordions.html"><i class='bx bx-radio-circle'></i>Accordions</a>
+						<li> <a href="component-accordions.php"><i class='bx bx-radio-circle'></i>Accordions</a>
 						</li>
-						<li> <a href="component-badges.html"><i class='bx bx-radio-circle'></i>Badges</a>
+						<li> <a href="component-badges.php"><i class='bx bx-radio-circle'></i>Badges</a>
 						</li>
-						<li> <a href="component-buttons.html"><i class='bx bx-radio-circle'></i>Buttons</a>
+						<li> <a href="component-buttons.php"><i class='bx bx-radio-circle'></i>Buttons</a>
 						</li>
-						<li> <a href="component-cards.html"><i class='bx bx-radio-circle'></i>Cards</a>
+						<li> <a href="component-cards.php"><i class='bx bx-radio-circle'></i>Cards</a>
 						</li>
-						<li> <a href="component-carousels.html"><i class='bx bx-radio-circle'></i>Carousels</a>
+						<li> <a href="component-carousels.php"><i class='bx bx-radio-circle'></i>Carousels</a>
 						</li>
-						<li> <a href="component-list-groups.html"><i class='bx bx-radio-circle'></i>List Groups</a>
+						<li> <a href="component-list-groups.php"><i class='bx bx-radio-circle'></i>List Groups</a>
 						</li>
-						<li> <a href="component-media-object.html"><i class='bx bx-radio-circle'></i>Media Objects</a>
+						<li> <a href="component-media-object.php"><i class='bx bx-radio-circle'></i>Media Objects</a>
 						</li>
-						<li> <a href="component-modals.html"><i class='bx bx-radio-circle'></i>Modals</a>
+						<li> <a href="component-modals.php"><i class='bx bx-radio-circle'></i>Modals</a>
 						</li>
-						<li> <a href="component-navs-tabs.html"><i class='bx bx-radio-circle'></i>Navs & Tabs</a>
+						<li> <a href="component-navs-tabs.php"><i class='bx bx-radio-circle'></i>Navs & Tabs</a>
 						</li>
-						<li> <a href="component-navbar.html"><i class='bx bx-radio-circle'></i>Navbar</a>
+						<li> <a href="component-navbar.php"><i class='bx bx-radio-circle'></i>Navbar</a>
 						</li>
-						<li> <a href="component-paginations.html"><i class='bx bx-radio-circle'></i>Pagination</a>
+						<li> <a href="component-paginations.php"><i class='bx bx-radio-circle'></i>Pagination</a>
 						</li>
-						<li> <a href="component-popovers-tooltips.html"><i class='bx bx-radio-circle'></i>Popovers & Tooltips</a>
+						<li> <a href="component-popovers-tooltips.php"><i class='bx bx-radio-circle'></i>Popovers & Tooltips</a>
 						</li>
-						<li> <a href="component-progress-bars.html"><i class='bx bx-radio-circle'></i>Progress</a>
+						<li> <a href="component-progress-bars.php"><i class='bx bx-radio-circle'></i>Progress</a>
 						</li>
-						<li> <a href="component-spinners.html"><i class='bx bx-radio-circle'></i>Spinners</a>
+						<li> <a href="component-spinners.php"><i class='bx bx-radio-circle'></i>Spinners</a>
 						</li>
-						<li> <a href="component-notifications.html"><i class='bx bx-radio-circle'></i>Notifications</a>
+						<li> <a href="component-notifications.php"><i class='bx bx-radio-circle'></i>Notifications</a>
 						</li>
-						<li> <a href="component-avtars-chips.html"><i class='bx bx-radio-circle'></i>Avatrs & Chips</a>
+						<li> <a href="component-avtars-chips.php"><i class='bx bx-radio-circle'></i>Avatrs & Chips</a>
 						</li>
 					</ul>
 				</li>
@@ -155,11 +155,11 @@
 						<div class="menu-title">Content</div>
 					</a>
 					<ul>
-						<li> <a href="content-grid-system.html"><i class='bx bx-radio-circle'></i>Grid System</a>
+						<li> <a href="content-grid-system.php"><i class='bx bx-radio-circle'></i>Grid System</a>
 						</li>
-						<li> <a href="content-typography.html"><i class='bx bx-radio-circle'></i>Typography</a>
+						<li> <a href="content-typography.php"><i class='bx bx-radio-circle'></i>Typography</a>
 						</li>
-						<li> <a href="content-text-utilities.html"><i class='bx bx-radio-circle'></i>Text Utilities</a>
+						<li> <a href="content-text-utilities.php"><i class='bx bx-radio-circle'></i>Text Utilities</a>
 						</li>
 					</ul>
 				</li>
@@ -170,11 +170,11 @@
 						<div class="menu-title">Icons</div>
 					</a>
 					<ul>
-						<li> <a href="icons-line-icons.html"><i class='bx bx-radio-circle'></i>Line Icons</a>
+						<li> <a href="icons-line-icons.php"><i class='bx bx-radio-circle'></i>Line Icons</a>
 						</li>
-						<li> <a href="icons-boxicons.html"><i class='bx bx-radio-circle'></i>Boxicons</a>
+						<li> <a href="icons-boxicons.php"><i class='bx bx-radio-circle'></i>Boxicons</a>
 						</li>
-						<li> <a href="icons-feather-icons.html"><i class='bx bx-radio-circle'></i>Feather Icons</a>
+						<li> <a href="icons-feather-icons.php"><i class='bx bx-radio-circle'></i>Feather Icons</a>
 						</li>
 					</ul>
 				</li>
@@ -187,26 +187,26 @@
 						<div class="menu-title">Forms</div>
 					</a>
 					<ul>
-						<li> <a href="form-elements.html"><i class='bx bx-radio-circle'></i>Form Elements</a>
+						<li> <a href="form-elements.php"><i class='bx bx-radio-circle'></i>Form Elements</a>
 						</li>
-						<li> <a href="form-input-group.html"><i class='bx bx-radio-circle'></i>Input Groups</a>
+						<li> <a href="form-input-group.php"><i class='bx bx-radio-circle'></i>Input Groups</a>
 						</li>
 						
-						<li> <a href="form-layouts.html"><i class='bx bx-radio-circle'></i>Forms Layouts</a>
+						<li> <a href="form-layouts.php"><i class='bx bx-radio-circle'></i>Forms Layouts</a>
 						</li>
-						<li> <a href="form-validations.html"><i class='bx bx-radio-circle'></i>Form Validation</a>
+						<li> <a href="form-validations.php"><i class='bx bx-radio-circle'></i>Form Validation</a>
 						</li>
-						<li> <a href="form-wizard.html"><i class='bx bx-radio-circle'></i>Form Wizard</a>
+						<li> <a href="form-wizard.php"><i class='bx bx-radio-circle'></i>Form Wizard</a>
 						</li>
-						<li> <a href="form-text-editor.html"><i class='bx bx-radio-circle'></i>Text Editor</a>
+						<li> <a href="form-text-editor.php"><i class='bx bx-radio-circle'></i>Text Editor</a>
 						</li>
-						<li> <a href="form-file-upload.html"><i class='bx bx-radio-circle'></i>File Upload</a>
+						<li> <a href="form-file-upload.php"><i class='bx bx-radio-circle'></i>File Upload</a>
 						</li>
-						<li> <a href="form-date-time-pickes.html"><i class='bx bx-radio-circle'></i>Date Pickers</a>
+						<li> <a href="form-date-time-pickes.php"><i class='bx bx-radio-circle'></i>Date Pickers</a>
 						</li>
-						<li> <a href="form-select2.html"><i class='bx bx-radio-circle'></i>Select2</a>
+						<li> <a href="form-select2.php"><i class='bx bx-radio-circle'></i>Select2</a>
 						</li>
-						<li> <a href="form-repeater.html"><i class='bx bx-radio-circle'></i>Form Repeater</a>
+						<li> <a href="form-repeater.php"><i class='bx bx-radio-circle'></i>Form Repeater</a>
 						</li>
 					</ul>
 				</li>
@@ -217,9 +217,9 @@
 						<div class="menu-title">Tables</div>
 					</a>
 					<ul>
-						<li> <a href="table-basic-table.html"><i class='bx bx-radio-circle'></i>Basic Table</a>
+						<li> <a href="table-basic-table.php"><i class='bx bx-radio-circle'></i>Basic Table</a>
 						</li>
-						<li> <a href="table-datatable.html"><i class='bx bx-radio-circle'></i>Data Table</a>
+						<li> <a href="table-datatable.php"><i class='bx bx-radio-circle'></i>Data Table</a>
 						</li>
 					</ul>
 				</li>
@@ -233,39 +233,39 @@
 					<ul>
 						<li><a class="has-arrow" href="javascript:;"><i class='bx bx-radio-circle'></i>Basic</a>
 							<ul>
-								<li><a href="auth-basic-signin.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
-								<li><a href="auth-basic-signup.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
-								<li><a href="auth-basic-forgot-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
-								<li><a href="auth-basic-reset-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
+								<li><a href="auth-basic-signin.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
+								<li><a href="auth-basic-signup.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
+								<li><a href="auth-basic-forgot-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
+								<li><a href="auth-basic-reset-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
 							</ul>
 						</li>
 						<li><a class="has-arrow" href="javascript:;"><i class='bx bx-radio-circle'></i>Cover</a>
 							<ul>
-								<li><a href="auth-cover-signin.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
-								<li><a href="auth-cover-signup.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
-								<li><a href="auth-cover-forgot-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
-								<li><a href="auth-cover-reset-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
+								<li><a href="auth-cover-signin.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
+								<li><a href="auth-cover-signup.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
+								<li><a href="auth-cover-forgot-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
+								<li><a href="auth-cover-reset-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
 							</ul>
 						</li>
 						<li><a class="has-arrow" href="javascript:;"><i class='bx bx-radio-circle'></i>With Header Footer</a>
 							<ul>
-								<li><a href="auth-header-footer-signin.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
-								<li><a href="auth-header-footer-signup.html" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
-								<li><a href="auth-header-footer-forgot-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
-								<li><a href="auth-header-footer-reset-password.html" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
+								<li><a href="auth-header-footer-signin.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
+								<li><a href="auth-header-footer-signup.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
+								<li><a href="auth-header-footer-forgot-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
+								<li><a href="auth-header-footer-reset-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
 							</ul>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="user-profile.html">
+					<a href="user-profile.php">
 						<div class="parent-icon"><i class="bx bx-user-circle"></i>
 						</div>
 						<div class="menu-title">User Profile</div>
 					</a>
 				</li>
 				<li>
-					<a href="timeline.html">
+					<a href="timeline.php">
 						<div class="parent-icon"> <i class="bx bx-video-recording"></i>
 						</div>
 						<div class="menu-title">Timeline</div>
@@ -278,25 +278,25 @@
 						<div class="menu-title">Errors</div>
 					</a>
 					<ul>
-						<li> <a href="errors-404-error.html" target="_blank"><i class='bx bx-radio-circle'></i>404 Error</a>
+						<li> <a href="errors-404-error.php" target="_blank"><i class='bx bx-radio-circle'></i>404 Error</a>
 						</li>
-						<li> <a href="errors-500-error.html" target="_blank"><i class='bx bx-radio-circle'></i>500 Error</a>
+						<li> <a href="errors-500-error.php" target="_blank"><i class='bx bx-radio-circle'></i>500 Error</a>
 						</li>
-						<li> <a href="errors-coming-soon.html" target="_blank"><i class='bx bx-radio-circle'></i>Coming Soon</a>
+						<li> <a href="errors-coming-soon.php" target="_blank"><i class='bx bx-radio-circle'></i>Coming Soon</a>
 						</li>
-						<li> <a href="error-blank-page.html" target="_blank"><i class='bx bx-radio-circle'></i>Blank Page</a>
+						<li> <a href="error-blank-page.php" target="_blank"><i class='bx bx-radio-circle'></i>Blank Page</a>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="faq.html">
+					<a href="faq.php">
 						<div class="parent-icon"><i class="bx bx-help-circle"></i>
 						</div>
 						<div class="menu-title">FAQ</div>
 					</a>
 				</li>
 				<li>
-					<a href="pricing-table.html">
+					<a href="pricing-table.php">
 						<div class="parent-icon"><i class="bx bx-diamond"></i>
 						</div>
 						<div class="menu-title">Pricing</div>
@@ -310,11 +310,11 @@
 						<div class="menu-title">Charts</div>
 					</a>
 					<ul>
-						<li> <a href="charts-apex-chart.html"><i class='bx bx-radio-circle'></i>Apex</a>
+						<li> <a href="charts-apex-chart.php"><i class='bx bx-radio-circle'></i>Apex</a>
 						</li>
-						<li> <a href="charts-chartjs.html"><i class='bx bx-radio-circle'></i>Chartjs</a>
+						<li> <a href="charts-chartjs.php"><i class='bx bx-radio-circle'></i>Chartjs</a>
 						</li>
-						<li> <a href="charts-highcharts.html"><i class='bx bx-radio-circle'></i>Highcharts</a>
+						<li> <a href="charts-highcharts.php"><i class='bx bx-radio-circle'></i>Highcharts</a>
 						</li>
 					</ul>
 				</li>
@@ -325,9 +325,9 @@
 						<div class="menu-title">Maps</div>
 					</a>
 					<ul>
-						<li> <a href="map-google-maps.html"><i class='bx bx-radio-circle'></i>Google Maps</a>
+						<li> <a href="map-google-maps.php"><i class='bx bx-radio-circle'></i>Google Maps</a>
 						</li>
-						<li> <a href="map-vector-maps.html"><i class='bx bx-radio-circle'></i>Vector Maps</a>
+						<li> <a href="map-vector-maps.php"><i class='bx bx-radio-circle'></i>Vector Maps</a>
 						</li>
 					</ul>
 				</li>

@@ -80,7 +80,7 @@
 													<label class="form-check-label" for="flexSwitchCheckChecked">Remember Me</label>
 												</div>
 											</div>
-											<div class="col-md-6 text-end">	<a href="auth-header-footer-forgot-password.html">Forgot Password ?</a>
+											<div class="col-md-6 text-end">	<a href="auth-header-footer-forgot-password.php">Forgot Password ?</a>
 											</div>
 											<div class="col-12">
 												<div class="d-grid">
@@ -89,7 +89,7 @@
 											</div>
 											<div class="col-12">
 												<div class="text-center">
-													<p class="mb-0">Don't have an account yet? <a href="auth-header-footer-signup.html">Sign up here</a>
+													<p class="mb-0">Don't have an account yet? <a href="auth-header-footer-signup.php">Sign up here</a>
 													</p>
 												</div>
 											</div>
