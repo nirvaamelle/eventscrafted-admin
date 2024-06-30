@@ -1,3 +1,4 @@
+<?php include ('function.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -80,7 +81,7 @@
 					<li class="list-inline-item"><a href="javascript:;"><i class='bx bxl-google me-1'></i>Google</a>
 					</li>
 				</ul>
-				<p class="mb-0">Copyright © 2021. All right reserved.</p>
+				<p class="mb-0">Copyright © 2024. All right reserved.</p>
 			</div>
 		</div>
 	</div>
