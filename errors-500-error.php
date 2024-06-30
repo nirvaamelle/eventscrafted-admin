@@ -16,7 +16,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 		<link href="assets/css/app.css" rel="stylesheet">
 		<link href="assets/css/icons.css" rel="stylesheet">
-		<title>Dashtrans - Bootstrap5 Admin Template</title>
+		<title>EventsCrafted - Bootstrap5 Admin Template</title>
 	</head>
 
 <body class="bg-theme bg-theme2">

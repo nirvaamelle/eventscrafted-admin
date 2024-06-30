@@ -22,7 +22,7 @@
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="assets/css/icons.css" rel="stylesheet">
 	
-	<title>Dashtrans - Bootstrap5 Admin Template</title>
+	<title>EventsCrafted - Bootstrap5 Admin Template</title>
 </head>
 
 <body class="bg-theme bg-theme2">
@@ -35,7 +35,7 @@
 					<img src="assets/images/logo-icon.png" class="logo-icon" alt="logo icon">
 				</div>
 				<div>
-					<h4 class="logo-text">Dashtrans</h4>
+					<h4 class="logo-text">EventsCrafted</h4>
 				</div>
 				<div class="toggle-icon ms-auto"><i class='bx bx-arrow-back'></i>
 				</div>

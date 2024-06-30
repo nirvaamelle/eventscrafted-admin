@@ -20,7 +20,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="assets/css/icons.css" rel="stylesheet">
-	<title>Dashtrans - Bootstrap5 Admin Template</title>
+	<title>EventsCrafted - Bootstrap5 Admin Template</title>
 </head>
 
 <body class="bg-theme bg-theme2">
@@ -37,7 +37,7 @@
 										<img src="assets/images/logo-icon.png" width="60" alt="" />
 									</div>
 									<div class="text-center mb-4">
-										<h5 class="">Dashtrans Admin</h5>
+										<h5 class="">EventsCrafted Admin</h5>
 										<p class="mb-0">Please fill the below details to create your account</p>
 									</div>
 									<div class="form-body">
