@@ -237,10 +237,10 @@
 					<ul>
 						<li><a class="has-arrow" href="javascript:;"><i class='bx bx-radio-circle'></i>Basic</a>
 							<ul>
-								<li><a href="auth-basic-signin.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
-								<li><a href="auth-basic-signup.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
-								<li><a href="auth-basic-forgot-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
-								<li><a href="auth-basic-reset-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
+								<li><a href="signin.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign In</a></li>
+								<li><a href="signup.php" target="_blank"><i class='bx bx-radio-circle'></i>Sign Up</a></li>
+								<li><a href="forgot-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Forgot Password</a></li>
+								<li><a href="reset-password.php" target="_blank"><i class='bx bx-radio-circle'></i>Reset Password</a></li>
 							</ul>
 						</li>
 						<li><a class="has-arrow" href="javascript:;"><i class='bx bx-radio-circle'></i>Cover</a>
