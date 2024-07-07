@@ -34,7 +34,7 @@
 													<img src="assets/images/avatars/ncst-2.jpg" class="msg-avatar" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
-													<h6 class="msg-name">Daisy Anderson<span class="msg-time float-end">5 sec
+													<h6 class="msg-name">Rovin John David Tuliva<span class="msg-time float-end">5 sec
 												ago</span></h6>
 													<p class="msg-info">The standard chunk of lorem</p>
 												</div>
